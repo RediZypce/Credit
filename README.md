@@ -1,5 +1,5 @@
 # Fraud Detection Project
-
+![image](https://github.com/RediZypce/Credit/assets/109640560/3f342d5f-7734-44c1-8fb1-e4dc2a557e6e)
 ## Overview
 This project is aimed at developing a fraud detection system using machine learning techniques. The objective is to build a model that can identify fraudulent transactions within a given dataset. The dataset used for this project is named [transactions.csv.](transactions.csv). To get started click ["Here"](Credit_Card_Fraud.ipynb)
 
@@ -23,6 +23,8 @@ The model's performance is evaluated using various metrics, including accuracy a
 
 * Visualizations: 
 A series of insightful visualizations are generated to better understand the data, feature importance, and model performance. These visualizations include histograms, bar plots, correlation heatmaps, and more.
+![image](https://github.com/RediZypce/Credit/assets/109640560/5e6d944f-4c29-48db-919f-9fdd111eea09)
+
 
 ## Additional Information
 Dataset Name: "transactions.csv"

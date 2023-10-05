@@ -1,7 +1,7 @@
 # Fraud Detection Project
 
 ## Overview
-This project is aimed at developing a fraud detection system using machine learning techniques. The objective is to build a model that can identify fraudulent transactions within a given dataset. The dataset used for this project is named "transactions.csv."
+This project is aimed at developing a fraud detection system using machine learning techniques. The objective is to build a model that can identify fraudulent transactions within a given dataset. The dataset used for this project is named [transactions.csv.](transactions.csv). To get started click ["Here"](Credit_Card_Fraud.ipynb)
 
 ## Project Structure
 The project is organized into several key components:
